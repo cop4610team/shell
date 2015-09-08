@@ -1,3 +1,10 @@
+/* 
+Paul Fordham
+
+This code completes everything from the getting started slides
+Feel free to change anything, I should see the changes easily on git.
+
+*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

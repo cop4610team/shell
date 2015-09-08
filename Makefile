@@ -1,8 +1,8 @@
 CC=gcc
-CFLAGS= -Wall -pedantic
+CCFLAGS= -Wall -pedantic
 
 main.x: shell.c
-	$(CC) $(CFLAGS) -g -o main.x shell.c
+	$(CC) $(CCFLAGS) -g -o main.x shell.c
 
 clean:
 	rm -f *.o *.x
